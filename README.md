@@ -8,7 +8,7 @@
 [PRML정리한 문서](http://norman3.github.io/prml/)를 가져와서 재정리
 
 ---
-Python codes implementing algorithms 
+## Python codes implementing algorithms 
 
 [Pattern Recognition and Machine Learning Toolbox](https://kr.mathworks.com/matlabcentral/fileexchange/55826-pattern-recognition-and-machine-learning-toolbox)
 
