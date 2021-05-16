@@ -3,8 +3,6 @@
 
 [PRMLT Pattern Recognition and Machine Learning Toolbox](http://prml.github.io)
 
-[PRML_QnA](https://github.com/aisolab/PRML_QnA)
-
 [PRML정리한 문서](http://norman3.github.io/prml/)를 가져와서 재정리
 
 ---
